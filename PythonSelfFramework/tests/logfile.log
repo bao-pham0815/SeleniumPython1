@@ -294,3 +294,74 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-08-10 13:28:49,434 : INFO : test_e2e : Entering country name as ind
 2023-08-10 13:28:54,613 : INFO : test_e2e : Text received from application is ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-10 16:28:24,521 : INFO : test_formSubmission : first name is Bao
+2023-08-10 16:28:24,571 : INFO : test_formSubmission : email is askldjflksad@hotmail.com
+2023-08-10 16:28:24,653 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:25,037 : INFO : test_formSubmission : first name is Tram
+2023-08-10 16:28:25,037 : INFO : test_formSubmission : first name is Tram
+2023-08-10 16:28:25,070 : INFO : test_formSubmission : email is lkajsdfkjs@hotmail.com
+2023-08-10 16:28:25,070 : INFO : test_formSubmission : email is lkajsdfkjs@hotmail.com
+2023-08-10 16:28:25,136 : INFO : test_formSubmission : gender is Female
+2023-08-10 16:28:25,136 : INFO : test_formSubmission : gender is Female
+2023-08-10 16:28:25,508 : INFO : test_formSubmission : first name is Hung
+2023-08-10 16:28:25,508 : INFO : test_formSubmission : first name is Hung
+2023-08-10 16:28:25,508 : INFO : test_formSubmission : first name is Hung
+2023-08-10 16:28:25,547 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 16:28:25,547 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 16:28:25,547 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 16:28:25,635 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:25,635 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:25,635 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:25,994 : INFO : test_formSubmission : first name is Mai
+2023-08-10 16:28:25,994 : INFO : test_formSubmission : first name is Mai
+2023-08-10 16:28:25,994 : INFO : test_formSubmission : first name is Mai
+2023-08-10 16:28:25,994 : INFO : test_formSubmission : first name is Mai
+2023-08-10 16:28:26,032 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 16:28:26,032 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 16:28:26,032 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 16:28:26,032 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 16:28:26,105 : INFO : test_formSubmission : gender is Female
+2023-08-10 16:28:26,105 : INFO : test_formSubmission : gender is Female
+2023-08-10 16:28:26,105 : INFO : test_formSubmission : gender is Female
+2023-08-10 16:28:26,105 : INFO : test_formSubmission : gender is Female
+2023-08-10 16:28:26,463 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 16:28:26,463 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 16:28:26,463 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 16:28:26,463 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 16:28:26,463 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 16:28:26,496 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 16:28:26,496 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 16:28:26,496 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 16:28:26,496 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 16:28:26,496 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 16:28:26,561 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:26,561 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:26,561 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:26,561 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:26,561 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:26,904 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 16:28:26,904 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 16:28:26,904 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 16:28:26,904 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 16:28:26,904 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 16:28:26,904 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 16:28:26,939 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 16:28:26,939 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 16:28:26,939 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 16:28:26,939 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 16:28:26,939 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 16:28:26,939 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 16:28:27,008 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:27,008 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:27,008 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:27,008 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:27,008 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:28:27,008 : INFO : test_formSubmission : gender is Male
+2023-08-10 16:29:02,140 : INFO : test_e2e : getting all the card titles
+2023-08-10 16:29:02,156 : INFO : test_e2e : iphone X
+2023-08-10 16:29:02,161 : INFO : test_e2e : Samsung Note 8
+2023-08-10 16:29:02,166 : INFO : test_e2e : Nokia Edge
+2023-08-10 16:29:02,171 : INFO : test_e2e : Blackberry
+2023-08-10 16:29:02,311 : INFO : test_e2e : Entering country name as ind
+2023-08-10 16:29:07,491 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

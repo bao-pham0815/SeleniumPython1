@@ -1,11 +1,10 @@
-import openpyxl
+from openpyxl import load_workbook
 
 class HomePageData2:
 
     @staticmethod
     def getAllTestData2():
-        book = openpyxl.load_workbook(
-            "C:\\Users\\Main-Snow\\PycharmProjects\\PythonSelfFramework\\TestData\\PythonDemo.xlsx")
+        book = load_workbook(filename="PythonDemo.xlsx")
         sheet = book.active
 
         testcase_column = 1  # Assuming test cases are in the first column

@@ -1,4 +1,5 @@
-import openpyxl
+
+from openpyxl.reader.excel import load_workbook
 
 
 class HomePageData:
@@ -7,7 +8,7 @@ class HomePageData:
 
         @staticmethod
         def getTestData(test_case_name):
-                book = openpyxl.load_workbook("C:\\Users\\Main-Snow\\PycharmProjects\\PythonSelfFramework\\TestData\\PythonDemo.xlsx")
+                book = load_workbook(filename="PythonDemo.xlsx")
                 sheet = book.active
                 Dict = {}
 
