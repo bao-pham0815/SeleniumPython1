@@ -1,0 +1,296 @@
+2023-08-09 17:19:48,188 : INFO : test_e2e : getting all the card titles
+2023-08-09 17:19:48,204 : INFO : test_e2e : iphone X
+2023-08-09 17:19:48,208 : INFO : test_e2e : Samsung Note 8
+2023-08-09 17:19:48,213 : INFO : test_e2e : Nokia Edge
+2023-08-09 17:19:48,218 : INFO : test_e2e : Blackberry
+2023-08-09 17:19:53,535 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 17:24:20,095 : INFO : test_e2e : getting all the card titles
+2023-08-09 17:24:20,110 : INFO : test_e2e : iphone X
+2023-08-09 17:24:20,116 : INFO : test_e2e : Samsung Note 8
+2023-08-09 17:24:20,121 : INFO : test_e2e : Nokia Edge
+2023-08-09 17:24:20,126 : INFO : test_e2e : Blackberry
+2023-08-09 17:24:20,271 : INFO : test_e2e : Entering country name as ind
+2023-08-09 17:24:25,448 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 17:27:21,190 : INFO : test_formSubmission : first name isBao Pham
+2023-08-09 17:27:21,240 : INFO : test_formSubmission : first name isbaopham@udemy111.com
+2023-08-09 17:27:21,316 : INFO : test_formSubmission : first name isMale
+2023-08-09 17:27:21,696 : INFO : test_formSubmission : first name isTram Truong
+2023-08-09 17:27:21,696 : INFO : test_formSubmission : first name isTram Truong
+2023-08-09 17:27:21,733 : INFO : test_formSubmission : first name isTruong.Tram@whateverkjd.com
+2023-08-09 17:27:21,733 : INFO : test_formSubmission : first name isTruong.Tram@whateverkjd.com
+2023-08-09 17:27:21,798 : INFO : test_formSubmission : first name isFemale
+2023-08-09 17:27:21,798 : INFO : test_formSubmission : first name isFemale
+2023-08-09 17:27:26,926 : INFO : test_e2e : getting all the card titles
+2023-08-09 17:27:26,942 : INFO : test_e2e : iphone X
+2023-08-09 17:27:26,947 : INFO : test_e2e : Samsung Note 8
+2023-08-09 17:27:26,952 : INFO : test_e2e : Nokia Edge
+2023-08-09 17:27:26,956 : INFO : test_e2e : Blackberry
+2023-08-09 17:27:27,094 : INFO : test_e2e : Entering country name as ind
+2023-08-09 17:27:32,267 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 17:30:33,193 : INFO : test_formSubmission : first name is Bao Pham
+2023-08-09 17:30:33,247 : INFO : test_formSubmission : email is baopham@udemy111.com
+2023-08-09 17:30:33,327 : INFO : test_formSubmission : gender is Male
+2023-08-09 17:30:33,710 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 17:30:33,710 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 17:30:33,749 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 17:30:33,749 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 17:30:33,818 : INFO : test_formSubmission : gender is Female
+2023-08-09 17:30:33,818 : INFO : test_formSubmission : gender is Female
+2023-08-09 17:30:39,009 : INFO : test_e2e : getting all the card titles
+2023-08-09 17:30:39,026 : INFO : test_e2e : iphone X
+2023-08-09 17:30:39,032 : INFO : test_e2e : Samsung Note 8
+2023-08-09 17:30:39,036 : INFO : test_e2e : Nokia Edge
+2023-08-09 17:30:39,041 : INFO : test_e2e : Blackberry
+2023-08-09 17:30:39,184 : INFO : test_e2e : Entering country name as ind
+2023-08-09 17:30:44,376 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 17:35:14,904 : INFO : test_formSubmission : first name is Bao Pham
+2023-08-09 17:35:14,954 : INFO : test_formSubmission : email is baopham@udemy111.com
+2023-08-09 17:35:15,029 : INFO : test_formSubmission : gender is Male
+2023-08-09 17:35:15,419 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 17:35:15,419 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 17:35:15,456 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 17:35:15,456 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 17:35:15,523 : INFO : test_formSubmission : gender is Female
+2023-08-09 17:35:15,523 : INFO : test_formSubmission : gender is Female
+2023-08-09 17:35:20,651 : INFO : test_e2e : getting all the card titles
+2023-08-09 17:35:20,668 : INFO : test_e2e : iphone X
+2023-08-09 17:35:20,673 : INFO : test_e2e : Samsung Note 8
+2023-08-09 17:35:20,678 : INFO : test_e2e : Nokia Edge
+2023-08-09 17:35:20,683 : INFO : test_e2e : Blackberry
+2023-08-09 17:35:20,822 : INFO : test_e2e : Entering country name as ind
+2023-08-09 17:35:25,997 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 17:47:20,161 : INFO : test_formSubmission : first name is Bao Pham
+2023-08-09 17:47:20,215 : INFO : test_formSubmission : email is baopham@udemy111.com
+2023-08-09 17:47:20,290 : INFO : test_formSubmission : gender is Male
+2023-08-09 17:47:20,678 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 17:47:20,678 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 17:47:20,715 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 17:47:20,715 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 17:47:20,784 : INFO : test_formSubmission : gender is Female
+2023-08-09 17:47:20,784 : INFO : test_formSubmission : gender is Female
+2023-08-09 17:47:25,953 : INFO : test_e2e : getting all the card titles
+2023-08-09 17:47:25,968 : INFO : test_e2e : iphone X
+2023-08-09 17:47:25,974 : INFO : test_e2e : Samsung Note 8
+2023-08-09 17:47:25,979 : INFO : test_e2e : Nokia Edge
+2023-08-09 17:47:25,983 : INFO : test_e2e : Blackberry
+2023-08-09 17:47:26,119 : INFO : test_e2e : Entering country name as ind
+2023-08-09 17:47:31,292 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 18:56:52,898 : INFO : test_formSubmission : first name is Bao Pham
+2023-08-09 18:56:52,950 : INFO : test_formSubmission : email is baopham@udemy111.com
+2023-08-09 18:56:53,029 : INFO : test_formSubmission : gender is Male
+2023-08-09 18:56:53,415 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 18:56:53,415 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 18:56:53,453 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 18:56:53,453 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 18:56:53,523 : INFO : test_formSubmission : gender is Female
+2023-08-09 18:56:53,523 : INFO : test_formSubmission : gender is Female
+2023-08-09 18:56:58,704 : INFO : test_e2e : getting all the card titles
+2023-08-09 18:56:58,721 : INFO : test_e2e : iphone X
+2023-08-09 18:56:58,726 : INFO : test_e2e : Samsung Note 8
+2023-08-09 18:56:58,732 : INFO : test_e2e : Nokia Edge
+2023-08-09 18:56:58,737 : INFO : test_e2e : Blackberry
+2023-08-09 18:56:58,884 : INFO : test_e2e : Entering country name as ind
+2023-08-09 18:57:04,066 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 19:16:00,795 : INFO : test_formSubmission : first name is Bao Pham
+2023-08-09 19:16:00,849 : INFO : test_formSubmission : email is baopham@udemy111.com
+2023-08-09 19:16:00,930 : INFO : test_formSubmission : gender is Male
+2023-08-09 19:16:01,347 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 19:16:01,347 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 19:16:01,384 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 19:16:01,384 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 19:16:01,455 : INFO : test_formSubmission : gender is Female
+2023-08-09 19:16:01,455 : INFO : test_formSubmission : gender is Female
+2023-08-09 19:16:06,690 : INFO : test_e2e : getting all the card titles
+2023-08-09 19:16:06,705 : INFO : test_e2e : iphone X
+2023-08-09 19:16:06,710 : INFO : test_e2e : Samsung Note 8
+2023-08-09 19:16:06,716 : INFO : test_e2e : Nokia Edge
+2023-08-09 19:16:06,721 : INFO : test_e2e : Blackberry
+2023-08-09 19:16:06,868 : INFO : test_e2e : Entering country name as ind
+2023-08-09 19:16:12,059 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 19:32:11,982 : INFO : test_formSubmission : first name is Bao Pham
+2023-08-09 19:32:12,034 : INFO : test_formSubmission : email is baopham@udemy111.com
+2023-08-09 19:32:12,112 : INFO : test_formSubmission : gender is Male
+2023-08-09 19:32:12,495 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 19:32:12,495 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 19:32:12,531 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 19:32:12,531 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 19:32:12,602 : INFO : test_formSubmission : gender is Female
+2023-08-09 19:32:12,602 : INFO : test_formSubmission : gender is Female
+2023-08-09 19:32:17,746 : INFO : test_e2e : getting all the card titles
+2023-08-09 19:32:17,763 : INFO : test_e2e : iphone X
+2023-08-09 19:32:17,767 : INFO : test_e2e : Samsung Note 8
+2023-08-09 19:32:17,772 : INFO : test_e2e : Nokia Edge
+2023-08-09 19:32:17,777 : INFO : test_e2e : Blackberry
+2023-08-09 19:32:17,915 : INFO : test_e2e : Entering country name as ind
+2023-08-09 19:32:23,084 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-09 19:37:50,203 : INFO : test_formSubmission : first name is Bao Pham
+2023-08-09 19:37:50,254 : INFO : test_formSubmission : email is baopham@udemy111.com
+2023-08-09 19:37:50,330 : INFO : test_formSubmission : gender is Male
+2023-08-09 19:37:50,708 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 19:37:50,708 : INFO : test_formSubmission : first name is Tram Truong
+2023-08-09 19:37:50,746 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 19:37:50,746 : INFO : test_formSubmission : email is Truong.Tram@whateverkjd.com
+2023-08-09 19:37:50,812 : INFO : test_formSubmission : gender is Female
+2023-08-09 19:37:50,812 : INFO : test_formSubmission : gender is Female
+2023-08-09 19:37:55,971 : INFO : test_e2e : getting all the card titles
+2023-08-09 19:37:55,986 : INFO : test_e2e : iphone X
+2023-08-09 19:37:55,991 : INFO : test_e2e : Samsung Note 8
+2023-08-09 19:37:55,996 : INFO : test_e2e : Nokia Edge
+2023-08-09 19:37:56,000 : INFO : test_e2e : Blackberry
+2023-08-09 19:37:56,142 : INFO : test_e2e : Entering country name as ind
+2023-08-09 19:38:01,317 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-10 12:38:56,633 : INFO : test_formSubmission : first name is Tram
+2023-08-10 12:38:56,685 : INFO : test_formSubmission : email is lkajsdfkjs@hotmail.com
+2023-08-10 12:38:56,771 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:06:52,056 : INFO : test_formSubmission : first name is Bao
+2023-08-10 13:06:52,103 : INFO : test_formSubmission : email is askldjflksad@hotmail.com
+2023-08-10 13:06:52,182 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:52,584 : INFO : test_formSubmission : first name is Tram
+2023-08-10 13:06:52,584 : INFO : test_formSubmission : first name is Tram
+2023-08-10 13:06:52,616 : INFO : test_formSubmission : email is lkajsdfkjs@hotmail.com
+2023-08-10 13:06:52,616 : INFO : test_formSubmission : email is lkajsdfkjs@hotmail.com
+2023-08-10 13:06:52,681 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:06:52,681 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:06:53,054 : INFO : test_formSubmission : first name is Hung
+2023-08-10 13:06:53,054 : INFO : test_formSubmission : first name is Hung
+2023-08-10 13:06:53,054 : INFO : test_formSubmission : first name is Hung
+2023-08-10 13:06:53,088 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 13:06:53,088 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 13:06:53,088 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 13:06:53,154 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:53,154 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:53,154 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:53,506 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:06:53,506 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:06:53,506 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:06:53,506 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:06:53,538 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:06:53,538 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:06:53,538 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:06:53,538 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:06:53,604 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:06:53,604 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:06:53,604 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:06:53,604 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:06:53,972 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:06:53,972 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:06:53,972 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:06:53,972 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:06:53,972 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:06:54,005 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:06:54,005 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:06:54,005 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:06:54,005 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:06:54,005 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:06:54,070 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,070 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,070 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,070 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,070 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,421 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:06:54,421 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:06:54,421 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:06:54,421 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:06:54,421 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:06:54,421 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:06:54,454 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:06:54,454 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:06:54,454 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:06:54,454 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:06:54,454 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:06:54,454 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:06:54,520 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,520 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,520 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,520 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,520 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:06:54,520 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:17:43,325 : INFO : test_e2e : getting all the card titles
+2023-08-10 13:17:43,341 : INFO : test_e2e : iphone X
+2023-08-10 13:17:43,347 : INFO : test_e2e : Samsung Note 8
+2023-08-10 13:17:43,351 : INFO : test_e2e : Nokia Edge
+2023-08-10 13:17:43,356 : INFO : test_e2e : Blackberry
+2023-08-10 13:17:43,498 : INFO : test_e2e : Entering country name as ind
+2023-08-10 13:17:48,675 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-10 13:28:41,898 : INFO : test_formSubmission : first name is Bao
+2023-08-10 13:28:41,946 : INFO : test_formSubmission : email is askldjflksad@hotmail.com
+2023-08-10 13:28:42,023 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:42,410 : INFO : test_formSubmission : first name is Tram
+2023-08-10 13:28:42,410 : INFO : test_formSubmission : first name is Tram
+2023-08-10 13:28:42,443 : INFO : test_formSubmission : email is lkajsdfkjs@hotmail.com
+2023-08-10 13:28:42,443 : INFO : test_formSubmission : email is lkajsdfkjs@hotmail.com
+2023-08-10 13:28:42,512 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:28:42,512 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:28:42,881 : INFO : test_formSubmission : first name is Hung
+2023-08-10 13:28:42,881 : INFO : test_formSubmission : first name is Hung
+2023-08-10 13:28:42,881 : INFO : test_formSubmission : first name is Hung
+2023-08-10 13:28:42,912 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 13:28:42,912 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 13:28:42,912 : INFO : test_formSubmission : email is ksajdlkfjsdf@gmail.com
+2023-08-10 13:28:42,981 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:42,981 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:42,981 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:43,330 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:28:43,330 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:28:43,330 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:28:43,330 : INFO : test_formSubmission : first name is Mai
+2023-08-10 13:28:43,362 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:28:43,362 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:28:43,362 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:28:43,362 : INFO : test_formSubmission : email is mksnlkdjsf@hotmail.com
+2023-08-10 13:28:43,427 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:28:43,427 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:28:43,427 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:28:43,427 : INFO : test_formSubmission : gender is Female
+2023-08-10 13:28:43,789 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:28:43,789 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:28:43,789 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:28:43,789 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:28:43,789 : INFO : test_formSubmission : first name is Kaiden
+2023-08-10 13:28:43,823 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:28:43,823 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:28:43,823 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:28:43,823 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:28:43,823 : INFO : test_formSubmission : email is lksjdndfj@hotmail.com
+2023-08-10 13:28:43,893 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:43,893 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:43,893 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:43,893 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:43,893 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:44,245 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:28:44,245 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:28:44,245 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:28:44,245 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:28:44,245 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:28:44,245 : INFO : test_formSubmission : first name is Nolan
+2023-08-10 13:28:44,277 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:28:44,277 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:28:44,277 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:28:44,277 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:28:44,277 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:28:44,277 : INFO : test_formSubmission : email is kjsndkjfskdjf@gmail.com
+2023-08-10 13:28:44,344 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:44,344 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:44,344 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:44,344 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:44,344 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:44,344 : INFO : test_formSubmission : gender is Male
+2023-08-10 13:28:49,262 : INFO : test_e2e : getting all the card titles
+2023-08-10 13:28:49,278 : INFO : test_e2e : iphone X
+2023-08-10 13:28:49,282 : INFO : test_e2e : Samsung Note 8
+2023-08-10 13:28:49,287 : INFO : test_e2e : Nokia Edge
+2023-08-10 13:28:49,292 : INFO : test_e2e : Blackberry
+2023-08-10 13:28:49,434 : INFO : test_e2e : Entering country name as ind
+2023-08-10 13:28:54,613 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
